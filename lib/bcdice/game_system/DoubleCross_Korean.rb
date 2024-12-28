@@ -47,7 +47,7 @@ module BCDice
       # 感情表（ポジティブ）
       POSITIVE_EMOTION_TABLE = positive_emotion_table(:ko_kr).freeze
 
-      # 感情表（ネガティブ）
+      # 感情表（ネガティブ） 
       NEGATIVE_EMOTION_TABLE = negative_emotion_table(:ko_kr).freeze
     end
   end
