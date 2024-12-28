@@ -52,9 +52,7 @@ module BCDice
 
       # 感情表（ネガティブ）
       NEGATIVE_EMOTION_TABLE = negative_emotion_table(:ko_kr).freeze
-
       HAPPENING_CHART = happening_chart(:ko_kr).freeze
-
       PROLOGUE_CHART_POSITIVE = prologue_chart_positive(:ko_kr).freeze
       PROLOGUE_CHART_NEGATIVE = prologue_chart_negative(:ko_kr).freeze
     end
