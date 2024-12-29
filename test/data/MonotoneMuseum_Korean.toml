@@ -308,3 +308,12 @@ rands = [
   { sides = 6, value = 6 },
   { sides = 6, value = 6 },
 ]
+
+[[ test ]]
+game_system = "MonotoneMuseum:Korean"
+input = "MOT"
+output = "징조표(전투)(11) ＞ 【졸도】\n올풀림에 접한 신체가 마침내 한계에 달했다. 당신은 전투 불능이 된다."
+rands = [
+  { sides = 6, value = 1 },
+  { sides = 6, value = 1 },
+]
